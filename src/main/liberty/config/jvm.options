@@ -1,0 +1,2 @@
+-Djna.library.path=/opt/hcl/domino/notes/latest/linux
+-Ddominojna.jnamode=direct
